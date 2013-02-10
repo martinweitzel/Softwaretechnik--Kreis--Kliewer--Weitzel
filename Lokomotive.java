@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Diese Klasse initialisiert eine Lokomotive
  */
-public class Lokomotive {
+public class Diesellok {
 
 	private static final int STATUS_HAELT = 0;
 	private static final int STATUS_FAEHRT = 1;
